@@ -1770,7 +1770,7 @@ ST_LocaUI_OptionsAudio/UI_Option_GameplayMusicVolume_Description,调整游戏音
 ST_LocaUI_OptionsAudio/UI_Option_MenuMusicVolume_Description,调整菜单中音乐播放列表的音量。,.ﺔﻤﺋﺎﻘﻠﻟ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_VoiceChatVolume_Description,调整语音聊天的音量。,.ﺔﻴﺗﻮﺼﻟﺍ ﺔﺷﺩﺭﺪﻟﺍ ﻲﻓ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChat_AllActive,全部启用,ﻝﺎﻌﻓ ﻊﻴﻤﺠﻟﺍ
-ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage,语音语言,ﺕﻮﺼﻟﺍ ﺔﻐﻟ
+ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage,语音语言,(ﻞﻌﻔﻣ ﺶﺗﺎﺒﻟﺍ) ﺔﻴﺑﺮﻌﻟﺍ :ﺕﻮﺼﻟﺍ ﺔﻐﻟ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_AudioMixType,音频混合类型,ﺕﻮﺼﻟﺍ ﺝﺰﻣ ﻉﻮﻧ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_AudioMixing,音频混合,ﻲﺗﻮﺼﻟﺍ ﺝﺰﻤﻟﺍ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_BallCallChannel,呼叫传球频道,ﺓﺮﻜﻟﺍ ﺮﻳﺮﻤﺗ ﺐﻠﻃ ﺓﺎﻨﻗ
@@ -1807,7 +1807,7 @@ ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChatMethod_PushToTalk,按键说话,�
 ST_LocaUI_OptionsAudio/UI_Option_MicrophoneRequiresAuth,需要认证,ﺔﻗﺩﺎﺼﻤﻟﺍ ﻡﺰﻠﺘﺴﻳ
 ST_LocaUI_OptionsAudio/UI_Option_SampleSubtitles,字幕示例,ﺔﻴﺼﻨﻟﺍ ﺔﻤﺟﺮﺘﻟﺍ ﻦﻣ ﺔﻨﻴﻋ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_MicroSelect_Description,选择语音聊天时要使用的麦克风。,.ﺕﻮﺼﻟﺍ ﺔﺷﺩﺭﺩ ﻲﻓ ﻞﺻﺍﻮﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﻥﻮﻓﻭﺮﻜﻴﻤﻟﺍ ﺮﺘﺧﺍ
-ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage_Description,您可在此处选择角色对话与语音的语言。,.ﻲﺗﻮﺼﻟﺍ ﺀﺍﺩﻷﺍﻭ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺭﺍﻮﺣ ﺔﻐﻟ ﻂﺒﺿ
+ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage_Description,您可在此处选择角色对话与语音的语言。,!ﺡﺎﺠﻨﺑ ﺕﺍﻮﺻﻷﺍﻭ ﺓﺍﺭﺎﺒﻤﻟﺍ ﺕﺍﺀﺍﺪﻧ ﺐﻳﺮﻌﺗ ﻞﻴﻌﻔﺗ ﻢﺗ
 ST_LocaUI_OptionsAudio/UI_Option_TextLanguage_Description,您可在此处选择游戏内所有文本的显示语言。,.ﺔﺒﻌﻠﻟﺍ ﻞﺧﺍﺩ ﺹﻮﺼﻨﻟﺍ ﻊﻴﻤﺠﻟ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻐﻠﻟﺍ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChatChannel_Description,设置您在语音聊天中可以听到和与之交谈的玩家范围。,.ﺔﻴﺗﻮﺼﻟﺍ ﺔﺷﺩﺭﺪﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻬﻌﻣ ﻢﻠﻜﺘﻟﺍﻭ ﻢﻬﻋﺎﻤﺳ ﻚﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺒﻋﻼﻟﺍ ﻕﺎﻄﻧ ﺪﻳﺪﺤﺘﻟ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_BallCallChannel_Description,设置您能听见，发送以及看见的传球呼叫的范围。禁用所有传球呼叫后将不会再出现语音台词，转为以实况转播、姓名牌上方特效和玩家之间连线特效的形式显示。,.ﻦﻴﺒﻋﻼﻟ ﺔﻳﺮﺼﺒﻟﺍ ﺕﺍﺮﺛﺆﻤﻟﺍ ﻦﻴﺑ ﻁﺎﺒﺗﺭﻻﺍﻭ ،ﺀﺎﻤﺳﻷﺍ ﺔﺣﻮﻟ ﻕﻮﻓ ﺔﻳﺮﺼﺒﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍﻭ ،ﺮﺷﺎﺒﻤﻟﺍ ﺚﺒﻟﺍ ﻰﻠﻋ ﺎﻬﺿﺮﻋﻭ ،ﻲﺗﻮﺼﻟﺍ ﻖﻴﻠﻌﺘﻟﺍ ﻑﺎﻘﻳﺇ ﻰﻟﺇ ﻪﻠﻛ ﺓﺮﻜﻟﺍ ﺕﺍﺮﻳﺮﻤﺗ ﺐﻠﻃ ﻢﺘﻛ ﻱﺩﺆﻳ .ﻢﻬﻨﻣ ﺓﺮﻜﻟﺍ ﺮﻳﺮﻤﺗ ﺐﻠﻃ ﺔﻳﺅﺭﻭ ،ﻝﺎﺳﺭﺇﻭ ،ﻉﺎﻤﺳ ﻚﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺒﻋﻼﻟﺍ ﻕﺎﻄﻧ ﺪﻳﺪﺤﺘﻟ
@@ -1933,7 +1933,7 @@ ST_LocaUI_OptionsGameplay/UI_OptionGameplay_MouseSensitivityVerticalScale_Descri
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_HudSize_Description,设置用户界面元素的显示大小。该数值默认为100%，数值越低，则界面信息越小。,.ﺎﻤﺠﺣ ﺮﻐﺻﺃ ﺔﻳﻮﻠﻌﻟﺍ ﺽﺮﻌﻟﺍ ﺔﺷﺎﺷ ﺮﺻﺎﻨﻋ ﻞﻌﺠﺗ ﻞﻗﻷﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ .%100 ﻮﻫ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺩﺍﺪﻋﻹﺍ .ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ ﺮﺻﺎﻨﻋ ﺱﺎﻴﻘﻣ ﺪﻳﺪﺤﺘﻟ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_CrosshairSize_Description,设置准星大小。数值越低，则准星越小。,.ﺐﻳﻮﺼﺘﻟﺍ ﺔﻣﻼﻋ ﻢﺠﺣ ﺮﻴﻐﺼﺗ ﻰﻟﺇ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻔﺧ ﻱﺩﺆﻴﺳ .ﺐﻳﻮﺼﺘﻟﺍ ﺔﻣﻼﻋ ﻢﺠﺣ ﺪﻳﺪﺤﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_MinimapSizeDescription,设置小地图的大小。数值越低，则小地图的尺寸越小。,.ﺎﻤﺠﺣ ﺮﻐﺻﺃ ﺓﺮﻐﺼﻤﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻞﻌﺠﻴﺳ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻔﺧ .ﺓﺮﻐﺼﻤﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ ﺪﻳﺪﺤﺗ
-ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterDesc,您可在此处选择游戏文本的显示语言。,.ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺹﻮﺼﻨﻟﺍ ﺽﺮﻌﻟ ﻡﺪﺨﺘﺴﺘﺳ ﻲﺘﻟﺍ ﺔﻐﻠﻟﺍ ﺪﻳﺪﺤﺗ
+ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterDesc,您可在此处选择游戏文本的显示语言。,!ﺡﺎﺠﻨﺑ ﺐﻳﺮﻌﺘﻟﺍ ﻒﻠﻣ ﻞﻴﻌﻔﺗ ﻢﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_DisablingType_Definitive,永久,ﻲﺋﺎﻬﻧ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_DisablingType_Description,说明当“禁用”为手动输入时会产生的具体表现。,".ﻱﻭﺪﻳ ﻝﺎﺧﺩﺇ ﺀﺍﺮﺟﺈﻛ ""ﻞﻴﻄﻌﺗ"" ﺭﺎﻴﺘﺧﺍ ﺪﻨﻋ ﺀﺍﺮﺟﻹﺍ ﺢﺿﻮﻳ"
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_CameraFOV_Description,决定视角缩放的默认倍率。,.ﺍﺮﻴﻣﺎﻜﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺮﻴﺒﻜﺘﻟﺍ ﻯﻮﺘﺴﻣ ﺪﻳﺪﺤﺘﻟ
@@ -1990,7 +1990,7 @@ ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraY_Description,反转上�
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraX,视角X轴反转,ﻲﻘﻓﻷﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺭﻮﺤﻣ ﺲﻜﻋ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraY,视角Y轴反转,ﻲﺳﺃﺮﻟﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺭﻮﺤﻣ ﺲﻜﻋ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_KeyboardMappingPresets,键盘键位映射预设,ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻂﻴﻄﺨﺘﻟ ﺔﻘﺒﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ
-ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language,语言,ﺔﻐﻠﻟﺍ
+ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language,语言,(ﺔﻠﻌﻔﻣ ﺔﻴﺑﺮﻌﻟﺍ) ﺔﻐﻠﻟﺍ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterTitle,语言选择,ﺔﻐﻠﻟﺍ ﺪﻳﺪﺤﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Remapping_RebindPopUp_Move_Left,向左移动,ﺭﺎﺴﻴﻟﺍ ﻰﻟﺇ ﺔﻛﺮﺤﻟﺍ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_LockShootOnController,控制器锁定射门,ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻭ ﻲﻓ ﺐﻳﻮﺼﺘﻟﺍ ﻞﻔﻗ

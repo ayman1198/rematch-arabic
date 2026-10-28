@@ -1767,7 +1767,7 @@ ST_LocaUI_OptionsAudio/UI_Option_GameplayMusicVolume_Description,調整遊戲中
 ST_LocaUI_OptionsAudio/UI_Option_MenuMusicVolume_Description,調整選單中音樂播放清單音量。,.ﺔﻤﺋﺎﻘﻠﻟ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_VoiceChatVolume_Description,調整語音交談音量。,.ﺔﻴﺗﻮﺼﻟﺍ ﺔﺷﺩﺭﺪﻟﺍ ﻲﻓ ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChat_AllActive,全部啟用,ﻝﺎﻌﻓ ﻊﻴﻤﺠﻟﺍ
-ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage,語音語言,ﺕﻮﺼﻟﺍ ﺔﻐﻟ
+ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage,語音語言,(ﻞﻌﻔﻣ ﺶﺗﺎﺒﻟﺍ) ﺔﻴﺑﺮﻌﻟﺍ :ﺕﻮﺼﻟﺍ ﺔﻐﻟ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_AudioMixType,音效混音類型,ﺕﻮﺼﻟﺍ ﺝﺰﻣ ﻉﻮﻧ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_AudioMixing,音訊混合,ﻲﺗﻮﺼﻟﺍ ﺝﺰﻤﻟﺍ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_BallCallChannel,要球頻道,ﺓﺮﻜﻟﺍ ﺮﻳﺮﻤﺗ ﺐﻠﻃ ﺓﺎﻨﻗ
@@ -1804,7 +1804,7 @@ ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChatMethod_PushToTalk,隨按即說,�
 ST_LocaUI_OptionsAudio/UI_Option_MicrophoneRequiresAuth,需要驗證,ﺔﻗﺩﺎﺼﻤﻟﺍ ﻡﺰﻠﺘﺴﻳ
 ST_LocaUI_OptionsAudio/UI_Option_SampleSubtitles,字幕範例,ﺔﻴﺼﻨﻟﺍ ﺔﻤﺟﺮﺘﻟﺍ ﻦﻣ ﺔﻨﻴﻋ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_MicroSelect_Description,選擇語音聊天時使用的麥克風。,.ﺕﻮﺼﻟﺍ ﺔﺷﺩﺭﺩ ﻲﻓ ﻞﺻﺍﻮﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﻥﻮﻓﻭﺮﻜﻴﻤﻟﺍ ﺮﺘﺧﺍ
-ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage_Description,設定角色對話與語音的語言。,.ﻲﺗﻮﺼﻟﺍ ﺀﺍﺩﻷﺍﻭ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺭﺍﻮﺣ ﺔﻐﻟ ﻂﺒﺿ
+ST_LocaUI_OptionsAudio/UI_Option_AudioLanguage_Description,設定角色對話與語音的語言。,!ﺡﺎﺠﻨﺑ ﺕﺍﻮﺻﻷﺍﻭ ﺓﺍﺭﺎﺒﻤﻟﺍ ﺕﺍﺀﺍﺪﻧ ﺐﻳﺮﻌﺗ ﻞﻴﻌﻔﺗ ﻢﺗ
 ST_LocaUI_OptionsAudio/UI_Option_TextLanguage_Description,設定遊戲中所有文字的語言。,.ﺔﺒﻌﻠﻟﺍ ﻞﺧﺍﺩ ﺹﻮﺼﻨﻟﺍ ﻊﻴﻤﺠﻟ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻐﻠﻟﺍ ﻂﺒﺿ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_VoiceChatChannel_Description,設定您使用語音聊天時能聽到與交談的玩家範圍。,.ﺔﻴﺗﻮﺼﻟﺍ ﺔﺷﺩﺭﺪﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻬﻌﻣ ﻢﻠﻜﺘﻟﺍﻭ ﻢﻬﻋﺎﻤﺳ ﻚﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺒﻋﻼﻟﺍ ﻕﺎﻄﻧ ﺪﻳﺪﺤﺘﻟ
 ST_LocaUI_OptionsAudio/UI_Option_Audio_BallCallChannel_Description,設定聽到、發送以及看到「要球」訊息的範圍。靜音所有「要球」訊息後，將關閉其語音提示、文字通知訊息、在名牌上顯示的特效與玩家之間傳球連線提示的特效。,.ﻦﻴﺒﻋﻼﻟ ﺔﻳﺮﺼﺒﻟﺍ ﺕﺍﺮﺛﺆﻤﻟﺍ ﻦﻴﺑ ﻁﺎﺒﺗﺭﻻﺍﻭ ،ﺀﺎﻤﺳﻷﺍ ﺔﺣﻮﻟ ﻕﻮﻓ ﺔﻳﺮﺼﺒﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍﻭ ،ﺮﺷﺎﺒﻤﻟﺍ ﺚﺒﻟﺍ ﻰﻠﻋ ﺎﻬﺿﺮﻋﻭ ،ﻲﺗﻮﺼﻟﺍ ﻖﻴﻠﻌﺘﻟﺍ ﻑﺎﻘﻳﺇ ﻰﻟﺇ ﻪﻠﻛ ﺓﺮﻜﻟﺍ ﺕﺍﺮﻳﺮﻤﺗ ﺐﻠﻃ ﻢﺘﻛ ﻱﺩﺆﻳ .ﻢﻬﻨﻣ ﺓﺮﻜﻟﺍ ﺮﻳﺮﻤﺗ ﺐﻠﻃ ﺔﻳﺅﺭﻭ ،ﻝﺎﺳﺭﺇﻭ ،ﻉﺎﻤﺳ ﻚﻨﻜﻤﻳ ﻦﻳﺬﻟﺍ ﻦﻴﺒﻋﻼﻟﺍ ﻕﺎﻄﻧ ﺪﻳﺪﺤﺘﻟ
@@ -1930,7 +1930,7 @@ ST_LocaUI_OptionsGameplay/UI_OptionGameplay_MouseSensitivityVerticalScale_Descri
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_HudSize_Description,設定使用者介面元素的縮放比例。預設為100%。數值越低，抬頭顯示器的元素越小。,.ﺎﻤﺠﺣ ﺮﻐﺻﺃ ﺔﻳﻮﻠﻌﻟﺍ ﺽﺮﻌﻟﺍ ﺔﺷﺎﺷ ﺮﺻﺎﻨﻋ ﻞﻌﺠﺗ ﻞﻗﻷﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ .%100 ﻮﻫ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺩﺍﺪﻋﻹﺍ .ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ ﺮﺻﺎﻨﻋ ﺱﺎﻴﻘﻣ ﺪﻳﺪﺤﺘﻟ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_CrosshairSize_Description,設定準星大小。數值越低，準星越小。,.ﺐﻳﻮﺼﺘﻟﺍ ﺔﻣﻼﻋ ﻢﺠﺣ ﺮﻴﻐﺼﺗ ﻰﻟﺇ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻔﺧ ﻱﺩﺆﻴﺳ .ﺐﻳﻮﺼﺘﻟﺍ ﺔﻣﻼﻋ ﻢﺠﺣ ﺪﻳﺪﺤﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_MinimapSizeDescription,設定小地圖大小。數值越低，小地圖越小。,.ﺎﻤﺠﺣ ﺮﻐﺻﺃ ﺓﺮﻐﺼﻤﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻞﻌﺠﻴﺳ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻔﺧ .ﺓﺮﻐﺼﻤﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ ﺪﻳﺪﺤﺗ
-ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterDesc,設定遊戲中顯示文字的語言。,.ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺹﻮﺼﻨﻟﺍ ﺽﺮﻌﻟ ﻡﺪﺨﺘﺴﺘﺳ ﻲﺘﻟﺍ ﺔﻐﻠﻟﺍ ﺪﻳﺪﺤﺗ
+ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterDesc,設定遊戲中顯示文字的語言。,!ﺡﺎﺠﻨﺑ ﺐﻳﺮﻌﺘﻟﺍ ﻒﻠﻣ ﻞﻴﻌﻔﺗ ﻢﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_DisablingType_Definitive,永久,ﻲﺋﺎﻬﻧ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_DisablingType_Description,選擇「停用」手動操控行為時，系統將如何運作的詳細設定。,".ﻱﻭﺪﻳ ﻝﺎﺧﺩﺇ ﺀﺍﺮﺟﺈﻛ ""ﻞﻴﻄﻌﺗ"" ﺭﺎﻴﺘﺧﺍ ﺪﻨﻋ ﺀﺍﺮﺟﻹﺍ ﺢﺿﻮﻳ"
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_CameraFOV_Description,決定鏡頭預設的縮放程度。,.ﺍﺮﻴﻣﺎﻜﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺮﻴﺒﻜﺘﻟﺍ ﻯﻮﺘﺴﻣ ﺪﻳﺪﺤﺘﻟ
@@ -1987,7 +1987,7 @@ ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraY_Description,反轉上�
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraX,水平反轉視角,ﻲﻘﻓﻷﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺭﻮﺤﻣ ﺲﻜﻋ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_InvertCameraY,垂直反轉視角,ﻲﺳﺃﺮﻟﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺭﻮﺤﻣ ﺲﻜﻋ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_KeyboardMappingPresets,鍵盤按鍵預設配置,ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻂﻴﻄﺨﺘﻟ ﺔﻘﺒﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ
-ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language,語言,ﺔﻐﻠﻟﺍ
+ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language,語言,(ﺔﻠﻌﻔﻣ ﺔﻴﺑﺮﻌﻟﺍ) ﺔﻐﻠﻟﺍ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Language_ParameterTitle,語言選擇,ﺔﻐﻠﻟﺍ ﺪﻳﺪﺤﺗ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_Remapping_RebindPopUp_Move_Left,向左移動,ﺭﺎﺴﻴﻟﺍ ﻰﻟﺇ ﺔﻛﺮﺤﻟﺍ
 ST_LocaUI_OptionsGameplay/UI_OptionGameplay_LockShootOnController,控制器射門鎖定,ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻭ ﻲﻓ ﺐﻳﻮﺼﺘﻟﺍ ﻞﻔﻗ

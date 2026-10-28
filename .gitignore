@@ -10,6 +10,10 @@ pak_root/
 temp_*/
 mandarin_samples_wav/
 patch_pak_root/Runtime/Content/WwiseAudio/
+*.pak
+*.sig
+*.wem
+*.wav
 
 # Git & Portable tools
 mingit/
