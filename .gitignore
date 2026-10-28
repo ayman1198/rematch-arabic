@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary build & unpack directories
+unpacked_pak/
+extracted*/
+pak_root/
+temp_*/
+mandarin_samples_wav/
+patch_pak_root/Runtime/Content/WwiseAudio/
+
+# Git & Portable tools
+mingit/
+*.zip
+*.tar.*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
